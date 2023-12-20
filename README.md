@@ -1,3 +1,9 @@
+# SM Ent. Naevis Voice Conversion
+- 관련 메뉴얼 [링크](https://www.notion.so/humelo/Voice-Changer-ca307d672660429b988f190a660a4140) (작성: wooseok_park@humelo.com)
+
+------
+이하 기존 레포 Readme  
+  
 # 7/28 Changelog:
 - Undo SQL change for the sake of stability, uses csv now
 - Merging checkpoints bug has been resolved
