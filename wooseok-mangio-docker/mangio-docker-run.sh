@@ -1,0 +1,1 @@
+docker run --gpus '"device=0,1"' -v ~/vc/mangio-rvc-v2/Mangio-RVC-Fork/:/app --name 230905 -it mangio-rvc-v2 /bin/bash

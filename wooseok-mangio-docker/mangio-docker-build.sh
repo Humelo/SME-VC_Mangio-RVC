@@ -1,0 +1,1 @@
+docker build -t mangio-rvc-v2:latest .
